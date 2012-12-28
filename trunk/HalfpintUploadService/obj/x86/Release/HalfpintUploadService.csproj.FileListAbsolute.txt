@@ -1,0 +1,11 @@
+D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\bin\Release\HalfpintUploadService.exe
+D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\bin\Release\HalfpintUploadService.pdb
+D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\obj\x86\Release\ResolveAssemblyReference.cache
+D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\obj\x86\Release\HalfpintUploadService.ProjectInstaller.resources
+D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\obj\x86\Release\HalfpintUploadService.HalfpintUploadService.resources
+D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\obj\x86\Release\GenerateResource.read.1.tlog
+D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\obj\x86\Release\GenerateResource.write.1.tlog
+D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\obj\x86\Release\HalfpintUploadService.exe
+D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\obj\x86\Release\HalfpintUploadService.pdb
+D:\0Work\Halfpint\HalfpintUploadService\HalfpintUploadService\obj\x86\Release\HalfpintUploadService.exe
+D:\0Work\Halfpint\HalfpintUploadService\HalfpintUploadService\obj\x86\Release\HalfpintUploadService.pdb
