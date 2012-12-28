@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalfpintUploadService", "HalfpintUploadService\HalfpintUploadService.csproj", "{CBF67B66-30B4-4886-9A8A-7CF36EFD029F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HalfpintUploadServiceSetup", "HalfpintUploadServiceSetup\HalfpintUploadServiceSetup.vdproj", "{AA2D3F6A-1645-4874-846B-0A7B62577735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF67B66-30B4-4886-9A8A-7CF36EFD029F}.Debug|x86.ActiveCfg = Debug|x86
+		{CBF67B66-30B4-4886-9A8A-7CF36EFD029F}.Debug|x86.Build.0 = Debug|x86
+		{CBF67B66-30B4-4886-9A8A-7CF36EFD029F}.Release|x86.ActiveCfg = Release|x86
+		{CBF67B66-30B4-4886-9A8A-7CF36EFD029F}.Release|x86.Build.0 = Release|x86
+		{AA2D3F6A-1645-4874-846B-0A7B62577735}.Debug|x86.ActiveCfg = Debug
+		{AA2D3F6A-1645-4874-846B-0A7B62577735}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
