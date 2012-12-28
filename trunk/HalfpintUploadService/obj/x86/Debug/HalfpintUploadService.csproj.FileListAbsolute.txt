@@ -1,9 +1,0 @@
-D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\bin\Debug\HalfpintUploadService.exe
-D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\bin\Debug\HalfpintUploadService.pdb
-D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\obj\x86\Debug\HalfpintUploadService.HalfpintUploadService.resources
-D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\obj\x86\Debug\GenerateResource.read.1.tlog
-D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\obj\x86\Debug\GenerateResource.write.1.tlog
-D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\obj\x86\Debug\HalfpintUploadService.exe
-D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\obj\x86\Debug\HalfpintUploadService.pdb
-D:\VS10Projects\HalfpintUploadService\HalfpintUploadService\obj\x86\Debug\HalfpintUploadService.ProjectInstaller.resources
